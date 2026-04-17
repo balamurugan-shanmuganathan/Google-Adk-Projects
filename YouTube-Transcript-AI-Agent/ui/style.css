@@ -43,6 +43,30 @@ body {
     padding: 2rem;
 }
 
+/* GitHub Link Icon Button */
+.github-link {
+    position: absolute;
+    top: 2rem;
+    right: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 48px;
+    height: 48px;
+    text-decoration: none;
+    color: var(--text-main);
+    transition: var(--transition);
+    z-index: 1000;
+    border-radius: 50%; /* Circular */
+}
+
+.github-link:hover {
+    transform: translateY(-2px) rotate(5deg);
+    box-shadow: 0 8px 32px var(--accent-glow);
+    border-color: var(--accent);
+    color: var(--accent);
+}
+
 /* Header & Hero */
 .hero {
     text-align: center;
