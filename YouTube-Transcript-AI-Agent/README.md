@@ -1,5 +1,7 @@
 # 🎥 YouTube Transcript AI Agent
 
+![App Demo](./Youtube-Transcript-AI-Agent.gif)
+
 A premium, modern web interface that transforms any YouTube video into actionable AI-powered insights in seconds. Built with a focus on "Cinema Scholar" aesthetics and real-time streaming analysis.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/balamurugan-shanmuganathan/Google-Adk-Projects)
